@@ -1,1 +1,4 @@
+
+Don't use this. https://github.com/golang/go/commit/7045e6f6c458908e1d5082381b3506a65059eac3
+
 godoc: https://godoc.org/github.com/dgryski/go-prefetch
